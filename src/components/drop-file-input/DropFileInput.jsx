@@ -5,7 +5,7 @@ import './drop-file-input.css';
 
 import { ImageConfig } from '../../config/ImageConfig';
 
-import Pic from '/UploadA/SubirArchivosReact/uploadreact/src/assets/upload.png';
+import Pic from '/UploadA/uploadreact/src/assets/upload.png';
 
 
 const DropFileInput = props => {
