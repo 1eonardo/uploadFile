@@ -1,0 +1,15 @@
+.footer_section{
+    background-color: #5868ff;
+    width: 100%;
+    margin-top: 353px;
+    text-align: center;
+    padding: 14px;
+}
+
+.desc_footer{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #fff;
+
+}

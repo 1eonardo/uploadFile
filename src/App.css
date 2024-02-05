@@ -22,12 +22,14 @@ body {
     line-height: 1.5;
     background-color: #eaeaf1;
     color: var(--txt-color);
+}
 
+.box_section{
+    width: 100%;
+    height: 100%;
     display: flex;
     justify-content: center;
     padding-top: 50px;
-
-    height: 100vh;
 }
 
 .box {
